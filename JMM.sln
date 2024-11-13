@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "JMM", "JMA.vcxproj", "{FBFDA75A-2641-4382-A975-B88AD4BF09E0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{3F0940F6-3FC3-4550-8274-47EEDF0EEF99}"
+	ProjectSection(SolutionItems) = preProject
+		ReadMe.md = ReadMe.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		JMM|x64 = JMM|x64
+		JMM|x86 = JMM|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBFDA75A-2641-4382-A975-B88AD4BF09E0}.JMM|x64.ActiveCfg = Editor|x64
+		{FBFDA75A-2641-4382-A975-B88AD4BF09E0}.JMM|x64.Build.0 = Editor|x64
+		{FBFDA75A-2641-4382-A975-B88AD4BF09E0}.JMM|x86.ActiveCfg = Runner|Win32
+		{FBFDA75A-2641-4382-A975-B88AD4BF09E0}.JMM|x86.Build.0 = Runner|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B626A2EC-E482-4E5E-ACCB-4BA3A03C3852}
+	EndGlobalSection
+EndGlobal
